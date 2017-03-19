@@ -1,0 +1,3 @@
+class CString {
+public:
+};
